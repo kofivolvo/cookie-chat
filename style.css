@@ -24,6 +24,7 @@ body {
 .text-box {
   margin: 0px auto;
   width: 40%;
+  align-self: center;
 }
 
 p{
